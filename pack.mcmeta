@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "§5§n由奕暃制作 §9§o版本：§c§l1.20.1",
+        "supported_formats": {
+            "min_inclusive": 1,
+            "max_inclusive": 100
+        }
+    }
+}
